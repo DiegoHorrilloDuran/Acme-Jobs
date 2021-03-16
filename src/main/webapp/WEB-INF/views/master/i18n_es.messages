@@ -31,6 +31,8 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.anonymous.favourite-link.diegohorrillo = Enlace de Horrillo
+master.menu.anonymous.favourite-link.diegomarquez = Enlace de Diego
+master.menu.anonymous.favourite-link.elenanold = Enlace de Elena
 
 # master.menu.administrator ###################################################
 
