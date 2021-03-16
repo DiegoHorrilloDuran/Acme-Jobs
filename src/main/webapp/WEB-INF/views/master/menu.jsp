@@ -30,7 +30,7 @@
       <acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.elenanold" action="https://github.com/elenolcar"/>
 		</acme:menu-option>
-
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.manrivlla" action="https://github.com/manrivlla"/>
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
 			<acme:menu-separator/>
