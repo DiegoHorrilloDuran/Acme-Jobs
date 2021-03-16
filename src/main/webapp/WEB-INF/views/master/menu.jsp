@@ -24,6 +24,8 @@
 						<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.josemanuel" action="https://github.com/joscuegal1"/>
 			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.pablomateos" action="https://github.com/pabmatang"/>
+			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.diegohorrillo" action="https://github.com/DiegoHorrilloDuran"/>
       <acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.diegomarquez" action="https://github.com/diemargon4"/>
