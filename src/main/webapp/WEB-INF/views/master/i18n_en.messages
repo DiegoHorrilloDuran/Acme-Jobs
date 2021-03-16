@@ -30,12 +30,11 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
-master.menu.anonymous.favourite-link.manrivlla = Manuel's Link
-
-master.menu.anonymous.favourite-link.josemanuel = Jose Manuel's Link
+master.menu.anonymous.favourite-link.manrivlla = Rivas's Link
+master.menu.anonymous.favourite-link.josemanuel = Cueva's Link
 master.menu.anonymous.favourite-link.diegohorrillo = Horrillo's Link
-master.menu.anonymous.favourite-link.diegomarquez = Diego's Link
-master.menu.anonymous.favourite-link.elenanold = Elena's link
+master.menu.anonymous.favourite-link.diegomarquez = Marquez's Link
+master.menu.anonymous.favourite-link.elenanold = Nold's link
 
 
 # master.menu.administrator ###################################################
