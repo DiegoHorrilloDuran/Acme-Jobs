@@ -30,12 +30,12 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
-master.menu.anonymous.favourite-link.manrivlla = Enlace de Rivas
-master.menu.anonymous.favourite-link.josemanuel = Enlace de Cuevas
-master.menu.anonymous.favourite-link.diegohorrillo = Enlace de Horrillo
-master.menu.anonymous.favourite-link.diegomarquez = Enlace de Marquez
-master.menu.anonymous.favourite-link.elenanold = Enlace de Nold
-master.menu.anonymous.favourite-link.pabmatang = Enlace de Mateos
+master.menu.anonymous.favourite-link.rivas = Enlace de Rivas
+master.menu.anonymous.favourite-link.cuevas = Enlace de Cuevas
+master.menu.anonymous.favourite-link.horrillo = Enlace de Horrillo
+master.menu.anonymous.favourite-link.marquez = Enlace de Marquez
+master.menu.anonymous.favourite-link.nold = Enlace de Nold
+master.menu.anonymous.favourite-link.mateos = Enlace de Mateos
 
 # master.menu.administrator ###################################################
 

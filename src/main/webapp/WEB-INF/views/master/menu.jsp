@@ -19,20 +19,19 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-
-						<acme:menu-separator/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.josemanuel" action="https://github.com/joscuegal1"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.cuevas" action="https://github.com/joscuegal1"/>
 			<acme:menu-separator/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.pablomateos" action="https://github.com/pabmatang"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.mateos" action="https://github.com/pabmatang"/>
 			<acme:menu-separator/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.diegohorrillo" action="https://github.com/DiegoHorrilloDuran"/>
-      <acme:menu-separator/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.diegomarquez" action="https://github.com/diemargon4"/>
-      <acme:menu-separator/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.elenanold" action="https://github.com/elenolcar"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.horrillo" action="https://github.com/DiegoHorrilloDuran"/>
+     		<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.marquez" action="https://github.com/diemargon4"/>
+      		<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.nold" action="https://github.com/elenolcar"/>
+      		<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.rivas" action="https://github.com/manrivlla"/>
 		</acme:menu-option>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link.manrivlla" action="https://github.com/manrivlla"/>
+		
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
 			<acme:menu-separator/>
